@@ -1,5 +1,4 @@
 
 ## Installation
-composer install
-npm install
-php artisan migrate
+composer install <br>
+npm install <br>
